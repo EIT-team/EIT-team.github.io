@@ -29,5 +29,5 @@ Schematics and PCB files for lower noise, AD9954 current source
 Code for analyising phase multiplexed EIT data
 
 
-
-Further info on UCL EIT group - http://www.ucl.ac.uk/medphys/research/eit
+# Other info
+Further details on UCL EIT group - http://www.ucl.ac.uk/medphys/research/eit
