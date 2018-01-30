@@ -27,3 +27,5 @@ Schematics and PCB files for lower noise, AD9954 current source
 
 ## [Phase-Multiplexing](https://github.com/EIT-team/Phase-Multiplexing)
 Code for analyising phase multiplexed EIT data
+
+Further info on UCL EIT group - http://www.ucl.ac.uk/medphys/research/eit
