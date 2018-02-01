@@ -22,12 +22,16 @@ Info on installing/basic set up for the workstation(s)
 Schematics and PCB files for lower noise, AD9954 current source
 
 ## [Load_data](https://github.com/EIT-team/Load_data)
+Matlab software to load EIT data from ScouseTom, KHU and SwissTom systems.
 
 ## [Tanks](https://github.com/EIT-team/Tanks)
+Models and meshes for tanks and phantoms used in EIT experiments
 
 ## [Phase-Multiplexing](https://github.com/EIT-team/Phase-Multiplexing)
 Code for analyising phase multiplexed EIT data
 
+## [3D printer](https://github.com/EIT-team/Lulzbot_TAZ6_Stuff)
+Information for using the Lulzbot TAZ 6 3D printer in the lab. Including maintenance  
 
 # Other info
 Further details on UCL EIT group - http://www.ucl.ac.uk/medphys/research/eit
