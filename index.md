@@ -15,8 +15,8 @@ HASU Stroke data set, collected using ScouseTom
 ## [Parallel-CS](https://github.com/EIT-team/Parallel-CS)
 Schematics and PCB files for Parallel Current Source (used for Queen's Square epilepsy study)
 
-## [Workstation Setup](https://github.com/EIT-team/Workstation-setup)
-Info on installing/basic set up for the workstation(s)
+## [Useful Guides](https://github.com/EIT-team/Guides-and-instructions)
+Guides for stuff round the lab - workstation setup, SwissTom setup
 
 ## [AD9954 Current Source](https://github.com/EIT-team/AD9954_Current_Source)
 Schematics and PCB files for lower noise, AD9954 current source
