@@ -42,6 +42,5 @@ Guides for stuff round the lab - *workstation* setup, *SwissTom* setup
 ## [Stroke_EIT_Dataset](https://github.com/EIT-team/Stroke_EIT_Dataset)
 HASU Stroke data set, collected using ScouseTom
 
-
 # Other info
 Further details on UCL EIT group - http://www.ucl.ac.uk/medphys/research/eit
