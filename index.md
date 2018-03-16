@@ -37,7 +37,7 @@ Models and meshes for tanks and phantoms used in EIT experiments
 # Misc
 
 ## [Useful Guides](https://github.com/EIT-team/Guides-and-instructions)
-Guides for stuff round the lab - *workstation* setup, *SwissTom* setup
+Guides for stuff round the lab - *workstation*, *SwissTom*, *3D Scanner*
 
 ## [Stroke_EIT_Dataset](https://github.com/EIT-team/Stroke_EIT_Dataset)
 HASU Stroke data set, collected using ScouseTom
